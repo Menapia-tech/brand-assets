@@ -12,6 +12,7 @@ Official brand assets for [Menapia](https://menapia.tech) and the Metsprite dron
 | `menapia-logo-horizontal-white.png` | Full horizontal wordmark, white (for dark backgrounds) |
 | `menapia-icon-dandelion-dark.jpg` | Dandelion icon mark, dark teal |
 | `menapia-icon-dandelion-white.png` | Dandelion icon mark, white (for dark backgrounds) |
+| `menapia-labs-icon-dark.png` | Menapia Labs icon with labs.menapia.tech, dark teal |
 
 ### Metsprite
 
